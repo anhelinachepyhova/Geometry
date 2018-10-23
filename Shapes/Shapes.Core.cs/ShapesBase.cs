@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Shapes.Core.cs
 {
-    public class Class1
-    {
-    }
+	class ShapesBase
+	{
+	}
 }
